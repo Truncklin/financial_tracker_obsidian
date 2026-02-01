@@ -1,0 +1,243 @@
+{
+  "main": {
+    "id": "066372a7af0e1b48",
+    "type": "split",
+    "children": [
+      {
+        "id": "89bbf98fd701e288",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5cd7924040b8b52a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cb554855876921be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8297635f614be293",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "finance-automation/vault/finance/dashboards/test.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "test"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "72db78725086b7e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "5510e8ef0ec10f94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81877c1e4ef4dab2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "ebcef89e99980383",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "9d354376d5dfcdd0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "223b36d56da0ec99",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3ebff53b8753c09",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e07e050b96dd1fa9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "finance-automation/vault/finance/transactions/Без названия.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Без названия"
+            }
+          },
+          {
+            "id": "d8ac1b48cd110d33",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "finance-automation/vault/finance/transactions/Без названия.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Без названия"
+            }
+          },
+          {
+            "id": "470ac8964042bf90",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "7d76784c4e24f152",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "10fe27f4dfe3b192",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "finance-automation/vault/finance/transactions/Без названия.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Без названия"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "8297635f614be293",
+  "lastOpenFiles": [
+    "README.md",
+    "finance-automation/vault/finance/categories/Образование.md",
+    "finance-automation/vault/finance/dashboards/test.md",
+    "finance-automation/vault/finance/dashboards/categories.md",
+    "finance-automation/vault/finance/categories/Маркетплейсы.md",
+    "finance-automation/vault/finance/categories/Красота.md",
+    "finance-automation/vault/finance/categories/Бонусы.md",
+    "finance-automation/vault/finance/categories/Аптеки.md",
+    "finance-automation/vault/finance/transactions/2025-08-01__магнит__-59.md",
+    "finance-automation/vault/finance/categories/Рестораны.md",
+    "finance-automation/vault/finance/categories/Мобильная связь.md",
+    "finance-automation/vault/finance/categories/Проценты.md",
+    "finance-automation/vault/finance/categories/Связь.md",
+    "finance-automation/vault/finance/categories/Наличные.md",
+    "finance-automation/vault/finance/categories/Спорттовары.md",
+    "finance-automation/vault/finance/categories/Местный транспорт.md",
+    "finance-automation/vault/finance/categories/Сервис.md",
+    "finance-automation/vault/finance/categories/Финансы.md",
+    "finance-automation/vault/finance/categories/Одежда и обувь.md",
+    "finance-automation/vault/finance/categories/транспорт.md",
+    "finance-automation/vault/finance/transactions/2025-11-30__яндекс_такси__-290.md",
+    "finance-automation/vault/finance/categories/маркетплейсы.md",
+    "finance-automation/vault/finance/transactions/2025-08-01__магнит__-218.md",
+    "finance-automation/vault/finance/categories/экосистема_яндекс.md",
+    "finance-automation/vault/finance/categories/услуги_банка.md",
+    "finance-automation/vault/finance/categories/тренировки.md",
+    "finance-automation/vault/finance/categories/Финансы",
+    "finance-automation/vault/finance/categories/Красота",
+    "finance-automation/vault/finance/categories/Спорттовары",
+    "finance-automation/vault/finance/categories/Переводы",
+    "finance-automation/vault/finance/categories/Фастфуд",
+    "finance-automation/vault/finance/categories/Пополнения",
+    "finance-automation/vault/finance/categories/Тренировки",
+    "finance-automation/vault/finance/categories/Супермаркеты",
+    "finance-automation/vault/finance/categories/Сервис",
+    "finance-automation/vault/finance/categories/Мобильная связь",
+    "Без названия.canvas"
+  ]
+}
