@@ -4,27 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "89bbf98fd701e288",
+        "id": "55ee1efd8584284f",
         "type": "tabs",
         "children": [
           {
-            "id": "5cd7924040b8b52a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Новая вкладка"
-            }
-          }
-        ]
-      },
-      {
-        "id": "cb554855876921be",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8297635f614be293",
+            "id": "c33356a5b8b3ba2a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -200,44 +184,44 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8297635f614be293",
+  "active": "c33356a5b8b3ba2a",
   "lastOpenFiles": [
-    "README.md",
-    "finance-automation/vault/finance/categories/Образование.md",
-    "finance-automation/vault/finance/dashboards/test.md",
-    "finance-automation/vault/finance/dashboards/categories.md",
-    "finance-automation/vault/finance/categories/Маркетплейсы.md",
-    "finance-automation/vault/finance/categories/Красота.md",
-    "finance-automation/vault/finance/categories/Бонусы.md",
-    "finance-automation/vault/finance/categories/Аптеки.md",
+    "Текстовый документ.txt",
+    "finance-automation/vault/finance/categories/Текстовый документ.txt",
+    "finance-automation/vault/finance/transactions/Текстовый документ.txt",
     "finance-automation/vault/finance/transactions/2025-08-01__магнит__-59.md",
-    "finance-automation/vault/finance/categories/Рестораны.md",
-    "finance-automation/vault/finance/categories/Мобильная связь.md",
-    "finance-automation/vault/finance/categories/Проценты.md",
-    "finance-automation/vault/finance/categories/Связь.md",
-    "finance-automation/vault/finance/categories/Наличные.md",
-    "finance-automation/vault/finance/categories/Спорттовары.md",
-    "finance-automation/vault/finance/categories/Местный транспорт.md",
-    "finance-automation/vault/finance/categories/Сервис.md",
-    "finance-automation/vault/finance/categories/Финансы.md",
-    "finance-automation/vault/finance/categories/Одежда и обувь.md",
-    "finance-automation/vault/finance/categories/транспорт.md",
-    "finance-automation/vault/finance/transactions/2025-11-30__яндекс_такси__-290.md",
-    "finance-automation/vault/finance/categories/маркетплейсы.md",
+    "finance-automation/vault/finance/transactions/2025-08-01__fotodrajf__-200.md",
     "finance-automation/vault/finance/transactions/2025-08-01__магнит__-218.md",
-    "finance-automation/vault/finance/categories/экосистема_яндекс.md",
-    "finance-automation/vault/finance/categories/услуги_банка.md",
-    "finance-automation/vault/finance/categories/тренировки.md",
+    "finance-automation/vault/finance/transactions/2025-08-01__олег_м__1000.md",
+    "finance-automation/vault/finance/transactions/2025-08-01__smogdogg__-1100.md",
+    "finance-automation/vault/finance/transactions/2025-08-01__проценты_на_остаток__0.md",
+    "finance-automation/vault/finance/transactions/2025-08-02__марина_а__1000.md",
+    "finance-automation/vault/finance/transactions/2025-08-02__пят_рочка__-115.md",
+    "finance-automation/vault/finance/transactions/2025-08-02__магнит__-144.md",
+    "finance-automation/vault/finance/transactions/2025-08-02__табачная_лавка__-530.md",
+    "finance-automation/vault/finance/transactions/2025-08-04__никита_а__-1.md",
+    "finance-automation/vault/finance/transactions/2025-08-04__никита_а__1.md",
+    "finance-automation/vault/finance/transactions/2025-08-04__т_мобайл_7_995_686_02_72__-423.md",
+    "finance-automation/vault/finance/transactions/2025-08-04__т_мобайл_7_995_686_02_72__423.md",
+    "finance-automation/vault/finance/transactions/2025-08-08__ашан__-270.md",
+    "finance-automation/vault/finance/transactions/2025-08-08__между_своими_счетами__-1000.md",
+    "finance-automation/vault/finance/transactions/2025-08-08__между_своими_счетами__1000.md",
+    "finance-automation/vault/finance/transactions/2025-08-08__игорь_н__-650.md",
+    "finance-automation/vault/finance/transactions/2025-08-09__fix_price__-326.md",
+    "finance-automation/vault/finance/transactions/2025-08-09__м_косметик__-59.md",
+    "finance-automation/vault/finance/transactions/2025-08-09__транспортная_карта__-43.md",
+    "finance-automation/vault/finance/transactions/2025-08-09__пят_рочка__-69.md",
+    "finance-automation/vault/finance/transactions/2025-08-10__сергей_д__25000.md",
+    "finance-automation/vault/finance/transactions/2025-08-10__транспортная_карта__-43.md",
+    "finance-automation/vault/finance/transactions/2025-08-10__магнит__-103.md",
+    "Pay.csv",
+    "finance-automation/Pay.csv",
+    "finance-automation/vault/finance/categories",
+    "finance-automation/vault/finance/transactions",
     "finance-automation/vault/finance/categories/Финансы",
     "finance-automation/vault/finance/categories/Красота",
     "finance-automation/vault/finance/categories/Спорттовары",
     "finance-automation/vault/finance/categories/Переводы",
-    "finance-automation/vault/finance/categories/Фастфуд",
-    "finance-automation/vault/finance/categories/Пополнения",
-    "finance-automation/vault/finance/categories/Тренировки",
-    "finance-automation/vault/finance/categories/Супермаркеты",
-    "finance-automation/vault/finance/categories/Сервис",
-    "finance-automation/vault/finance/categories/Мобильная связь",
     "Без названия.canvas"
   ]
 }

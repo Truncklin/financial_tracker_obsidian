@@ -14,7 +14,7 @@ import (
 
 const (
 	csvFile      = "Pay.csv"
-	vaultPath    = "vault"
+	vaultPath    = "finance-automation/vault"
 	outputDir    = "finance/transactions"
 	outputDirCat = "finance/categories"
 	source       = "tinkoff"
@@ -32,7 +32,7 @@ func main() {
 
 	f, err := os.Open(csvFile)
 	if err != nil {
-		panic(err)
+		fmt.Println("CSV error:", err)
 	}
 	defer f.Close()
 
@@ -42,7 +42,7 @@ func main() {
 
 	rows, err := reader.ReadAll()
 	if err != nil {
-		panic(err)
+		fmt.Println("CSV error:", err)
 	}
 
 	headers := rows[0]
@@ -65,7 +65,8 @@ func main() {
 		amount, _ := strconv.ParseFloat(amountStr, 64)
 		dateTime, err := time.Parse("02.01.2006 15:04:05", dateStr)
 		if err != nil {
-			panic(err)
+			fmt.Println("Bad date:", dateStr)
+			continue
 		}
 
 		date := dateTime.Format("2006-01-02")
@@ -97,7 +98,7 @@ source: %s
 date: %s
 amount: %.2f
 currency: %s
-category: [[%s]]
+categories: %s
 merchant: %s
 account: %s
 tags: [%s]
@@ -124,7 +125,7 @@ tags: [%s]
 			categoryPath)
 
 		if err := os.WriteFile(fullPath, []byte(content), 0644); err != nil {
-			panic(err)
+			fmt.Println("CSV error:", err)
 		}
 	}
 	for cat := range categorySet {
@@ -147,7 +148,7 @@ color: "%s"
 		)
 
 		if err := os.WriteFile(fullPath, []byte(content), 0644); err != nil {
-			panic(err)
+			fmt.Println("CSV error:", err)
 		}
 	}
 }
